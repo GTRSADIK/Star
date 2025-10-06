@@ -23,8 +23,8 @@
 
 1. **Clone and install:**
    ```bash
-   git clone https://github.com/bohd4nx/tg-stars-payment.git
-   cd tg-stars-payment
+   git clone https://github.com/GTRSADIK/Star.git
+   cd Star
    pip install -r requirements.txt
    ```
 
@@ -52,5 +52,5 @@ The bot includes comprehensive error handling for common scenarios:
 ---
 
 <div align="center">
-    <h4>Built with ❤️ by <a href="https://t.me/bohd4nx" target="_blank">Bohdan</a></h4>
+    <h4>Built with ❤️ by <a href="https://t.me/GTR_SADIK" target="_blank">GTR SADIK</a></h4>
 </div>
